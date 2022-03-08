@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://antoinelaly.github.io/csb-cyw66c/static/css/main.591722c4.chunk.css",
+    "main.js": "https://antoinelaly.github.io/csb-cyw66c/static/js/main.5dc15325.chunk.js",
+    "main.js.map": "https://antoinelaly.github.io/csb-cyw66c/static/js/main.5dc15325.chunk.js.map",
+    "runtime-main.js": "https://antoinelaly.github.io/csb-cyw66c/static/js/runtime-main.8e693d10.js",
+    "runtime-main.js.map": "https://antoinelaly.github.io/csb-cyw66c/static/js/runtime-main.8e693d10.js.map",
+    "static/js/2.d4c17f44.chunk.js": "https://antoinelaly.github.io/csb-cyw66c/static/js/2.d4c17f44.chunk.js",
+    "static/js/2.d4c17f44.chunk.js.map": "https://antoinelaly.github.io/csb-cyw66c/static/js/2.d4c17f44.chunk.js.map",
+    "index.html": "https://antoinelaly.github.io/csb-cyw66c/index.html",
+    "precache-manifest.fa5b9cea48319260f7c4e23c2bef5226.js": "https://antoinelaly.github.io/csb-cyw66c/precache-manifest.fa5b9cea48319260f7c4e23c2bef5226.js",
+    "service-worker.js": "https://antoinelaly.github.io/csb-cyw66c/service-worker.js",
+    "static/css/main.591722c4.chunk.css.map": "https://antoinelaly.github.io/csb-cyw66c/static/css/main.591722c4.chunk.css.map",
+    "static/js/2.d4c17f44.chunk.js.LICENSE.txt": "https://antoinelaly.github.io/csb-cyw66c/static/js/2.d4c17f44.chunk.js.LICENSE.txt",
+    "static/media/times-solid.a552303d.svg": "https://antoinelaly.github.io/csb-cyw66c/static/media/times-solid.a552303d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e693d10.js",
+    "static/js/2.d4c17f44.chunk.js",
+    "static/css/main.591722c4.chunk.css",
+    "static/js/main.5dc15325.chunk.js"
+  ]
+}
